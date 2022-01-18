@@ -1,0 +1,2 @@
+NETWORK_BRIDGE="project-bridge"
+BACKEND_SERVER_NAME="backend-server"
